@@ -1,2 +1,37 @@
-# Webpage-project-of-meme
-It's a project I'm still working on to make a fully functional website, I know it sounds stupid as there is over 40,000,000 terabytes of data uploaded every day to the internet so why not add something to that? I want to learn how to build a network of computers and make a server using docker to get this thing all up and running. Thank you for taking the time out of your day to read this and have a wonderful day!
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Maxz963/Webpage-project-of-meme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maxz963/Webpage-project-of-meme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
