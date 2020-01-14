@@ -1,8 +1,2 @@
 ## Welcome to my project!
-This is a project that I am doing for school at the moment. I would like to set up a server or two to launch this
-as a website, but as of right now being a student I cannot afford building a server or maintaining one so I am 
-opensourceing my project to see what happens.
-
-```markdown
-This is just a fun project I am using to try to test my skills at coding and integrating things into a website or html
-document
+It's a project I'm still working on to make a fully functional website, I know it sounds stupid as there is over 40,000,000 terabytes of data uploaded every day to the internet so why not add something to that? I want to learn how to build a network of computers and make a server using docker to get this thing all up and running. Thank you for taking the time out of your day to read this and have a wonderful day!
